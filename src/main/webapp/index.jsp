@@ -15,15 +15,15 @@
 <br />
  <div>
 <label>
-<input type="radio" name="r1" value="add" />rabbani
+<input type="radio" name="r1" value="add" />Sravani-Add
 <br />
 </label>
 <label>
-<input type="radio" name="r2" value="sub" />Aravind
+<input type="radio" name="r2" value="sub" />Mohammed-sub
 <br />
 </label>
 <label>
-<input type="radio" name="r3" value="prod" />Multiplication
+<input type="radio" name="r3" value="prod" />Vinod-Multi
 <br />
 </label>
 
